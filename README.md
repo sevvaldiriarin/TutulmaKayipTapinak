@@ -1,11 +1,6 @@
 # TutulmaKayipTapinak
 My first 3d game experience with my team at the end of my unity education. Our mini puzzle solving game took 3rd place in the tournament.  
 
-You can access the unity files of the game via this link: https://drive.google.com/drive/folders/1ymYh76W0GGIQi6wQa6Y7qmhgdz1OJe6E?usp=sharing
-
-You can access the files of builded game via this link: https://drive.google.com/drive/folders/1Fb-4kNTRngvZkyvtJOcHn9xC70iVA_6g?usp=sharing
-
-
 ![Ekran Görüntüsü (344)](https://github.com/sevvaldiriarin/TutulmaKayipTapinak/assets/92711584/3b329a1f-f477-4d1c-ab69-f2bf5c174519)
 ![Ekran Görüntüsü (345)](https://github.com/sevvaldiriarin/TutulmaKayipTapinak/assets/92711584/8d2ab1a0-f65b-4d54-8d9d-ec5a14e2a21b)
 ![Ekran Görüntüsü (346)](https://github.com/sevvaldiriarin/TutulmaKayipTapinak/assets/92711584/9bb108b5-c508-4526-8b9e-434f7855dd9c)
